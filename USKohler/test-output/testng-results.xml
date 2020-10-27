@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-30T14:42:16 IST" name="Default suite" finished-at="2020-09-30T14:45:27 IST" duration-ms="190571">
+    <groups>
+      <group name="ProductDisplayPage">
+        <method signature="TestScenarios.DiscontinuedProduct()[pri:0, instance:testData.TestScenarios@1f9e9475]" name="DiscontinuedProduct" class="testData.TestScenarios"/>
+        <method signature="TestScenarios.SellableServicepart()[pri:0, instance:testData.TestScenarios@1f9e9475]" name="SellableServicepart" class="testData.TestScenarios"/>
+        <method signature="TestScenarios.VerifyAddtoCart_PDPPage()[pri:0, instance:testData.TestScenarios@1f9e9475]" name="VerifyAddtoCart_PDPPage" class="testData.TestScenarios"/>
+        <method signature="TestScenarios.VerifyBreadcrumbs_StoreLocator_PDPpage()[pri:0, instance:testData.TestScenarios@1f9e9475]" name="VerifyBreadcrumbs_StoreLocator_PDPpage" class="testData.TestScenarios"/>
+        <method signature="TestScenarios.VerifyCompareOverlayDisplayandDisappear()[pri:0, instance:testData.TestScenarios@1f9e9475]" name="VerifyCompareOverlayDisplayandDisappear" class="testData.TestScenarios"/>
+        <method signature="TestScenarios.VerifyCompareproductModal()[pri:0, instance:testData.TestScenarios@1f9e9475]" name="VerifyCompareproductModal" class="testData.TestScenarios"/>
+        <method signature="TestScenarios.VerifyOptions_PDPPage()[pri:0, instance:testData.TestScenarios@1f9e9475]" name="VerifyOptions_PDPPage" class="testData.TestScenarios"/>
+        <method signature="TestScenarios.VerifyPDPpage()[pri:0, instance:testData.TestScenarios@1f9e9475]" name="VerifyPDPpage" class="testData.TestScenarios"/>
+        <method signature="TestScenarios.signIn()[pri:0, instance:testData.TestScenarios@1f9e9475]" name="signIn" class="testData.TestScenarios"/>
+      </group> <!-- ProductDisplayPage -->
+    </groups>
+    <test started-at="2020-09-30T14:42:16 IST" name="Default test" finished-at="2020-09-30T14:45:27 IST" duration-ms="190571">
+      <class name="testData.TestScenarios">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testData.TestScenarios@1f9e9475]" started-at="2020-09-30T14:42:16 IST" name="setup" finished-at="2020-09-30T14:42:23 IST" duration-ms="7205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="urlsetup()[pri:0, instance:testData.TestScenarios@1f9e9475]" started-at="2020-09-30T14:42:23 IST" name="urlsetup" finished-at="2020-09-30T14:42:28 IST" duration-ms="4718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlsetup -->
+        <test-method is-config="true" signature="homePage()[pri:0, instance:testData.TestScenarios@1f9e9475]" started-at="2020-09-30T14:42:28 IST" name="homePage" finished-at="2020-09-30T14:42:29 IST" duration-ms="1369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method signature="DiscontinuedProduct()[pri:0, instance:testData.TestScenarios@1f9e9475]" started-at="2020-09-30T14:42:29 IST" name="DiscontinuedProduct" description="verify Discontinued Product" finished-at="2020-09-30T14:42:47 IST" duration-ms="18157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DiscontinuedProduct -->
+        <test-method is-config="true" signature="homePage()[pri:0, instance:testData.TestScenarios@1f9e9475]" started-at="2020-09-30T14:42:47 IST" name="homePage" finished-at="2020-09-30T14:42:51 IST" duration-ms="3973" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method signature="SellableServicepart()[pri:0, instance:testData.TestScenarios@1f9e9475]" started-at="2020-09-30T14:42:51 IST" name="SellableServicepart" description="verify Sellable Service part" finished-at="2020-09-30T14:43:03 IST" duration-ms="11304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SellableServicepart -->
+        <test-method is-config="true" signature="homePage()[pri:0, instance:testData.TestScenarios@1f9e9475]" started-at="2020-09-30T14:43:03 IST" name="homePage" finished-at="2020-09-30T14:43:05 IST" duration-ms="1813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method signature="VerifyAddtoCart_PDPPage()[pri:0, instance:testData.TestScenarios@1f9e9475]" started-at="2020-09-30T14:43:05 IST" name="VerifyAddtoCart_PDPPage" description="Method to verify AddtoCart_PDPPage" finished-at="2020-09-30T14:43:32 IST" duration-ms="27330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyAddtoCart_PDPPage -->
+        <test-method is-config="true" signature="homePage()[pri:0, instance:testData.TestScenarios@1f9e9475]" started-at="2020-09-30T14:43:32 IST" name="homePage" finished-at="2020-09-30T14:43:33 IST" duration-ms="968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method signature="VerifyBreadcrumbs_StoreLocator_PDPpage()[pri:0, instance:testData.TestScenarios@1f9e9475]" started-at="2020-09-30T14:43:33 IST" name="VerifyBreadcrumbs_StoreLocator_PDPpage" description="VerifyBreadcrumbs_StoreLocator_PDPpage" finished-at="2020-09-30T14:43:59 IST" duration-ms="25964" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyBreadcrumbs_StoreLocator_PDPpage -->
+        <test-method is-config="true" signature="homePage()[pri:0, instance:testData.TestScenarios@1f9e9475]" started-at="2020-09-30T14:43:59 IST" name="homePage" finished-at="2020-09-30T14:44:03 IST" duration-ms="3723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method signature="VerifyCompareOverlayDisplayandDisappear()[pri:0, instance:testData.TestScenarios@1f9e9475]" started-at="2020-09-30T14:44:03 IST" name="VerifyCompareOverlayDisplayandDisappear" description="Verify compare overlay display and Disaapear method" finished-at="2020-09-30T14:44:13 IST" duration-ms="10111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyCompareOverlayDisplayandDisappear -->
+        <test-method is-config="true" signature="homePage()[pri:0, instance:testData.TestScenarios@1f9e9475]" started-at="2020-09-30T14:44:13 IST" name="homePage" finished-at="2020-09-30T14:44:14 IST" duration-ms="1468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method signature="VerifyCompareproductModal()[pri:0, instance:testData.TestScenarios@1f9e9475]" started-at="2020-09-30T14:44:14 IST" name="VerifyCompareproductModal" description="Verify compare product modal" finished-at="2020-09-30T14:44:46 IST" duration-ms="31692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyCompareproductModal -->
+        <test-method is-config="true" signature="homePage()[pri:0, instance:testData.TestScenarios@1f9e9475]" started-at="2020-09-30T14:44:46 IST" name="homePage" finished-at="2020-09-30T14:44:48 IST" duration-ms="2182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method signature="VerifyOptions_PDPPage()[pri:0, instance:testData.TestScenarios@1f9e9475]" started-at="2020-09-30T14:44:48 IST" name="VerifyOptions_PDPPage" description="verify PDP Page Options" finished-at="2020-09-30T14:45:02 IST" duration-ms="13484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyOptions_PDPPage -->
+        <test-method is-config="true" signature="homePage()[pri:0, instance:testData.TestScenarios@1f9e9475]" started-at="2020-09-30T14:45:02 IST" name="homePage" finished-at="2020-09-30T14:45:03 IST" duration-ms="1986" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method signature="VerifyPDPpage()[pri:0, instance:testData.TestScenarios@1f9e9475]" started-at="2020-09-30T14:45:03 IST" name="VerifyPDPpage" description="Verify VerifyPDPpage" finished-at="2020-09-30T14:45:19 IST" duration-ms="16009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyPDPpage -->
+        <test-method is-config="true" signature="homePage()[pri:0, instance:testData.TestScenarios@1f9e9475]" started-at="2020-09-30T14:45:20 IST" name="homePage" finished-at="2020-09-30T14:45:22 IST" duration-ms="2844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method signature="signIn()[pri:0, instance:testData.TestScenarios@1f9e9475]" started-at="2020-09-30T14:45:22 IST" name="signIn" description="Method for signIn" finished-at="2020-09-30T14:45:25 IST" duration-ms="3087" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testData.TestScenarios@1f9e9475]" started-at="2020-09-30T14:45:25 IST" name="tearDown" finished-at="2020-09-30T14:45:27 IST" duration-ms="1083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testData.TestScenarios -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
